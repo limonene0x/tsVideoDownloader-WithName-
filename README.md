@@ -4,7 +4,7 @@
 
 ## 使用方法（封装版本）
 
-1. 解压程序，得到TsDownloader.exe、TsDownloaderWithName.exe和ffmpeg.exe三个文件（ffmpeg为支持程序，下载地址https://www.ffmpeg.org/）
+1. 解压程序，得到TsDownloader.exe、TsDownloaderWithName.exe和ffmpeg.exe三个文件（ffmpeg为支持程序，官方地址<https://www.ffmpeg.org/>）
 2. 双击运行TsDownloader.exe（输出output.mp4）或TsDownloaderWithName.exe（自定义输出文件名）
 3. 在浏览器中找到想要下载视频的m3u8地址并复制粘贴进程序
 4. （WithName可选）输入要保存的文件名
